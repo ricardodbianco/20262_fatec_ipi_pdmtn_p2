@@ -1,0 +1,4 @@
+# dependências baixadas pelo npm
+node_modules
+# variáveis de ambiente com o token do TMDB
+.env
